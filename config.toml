@@ -1,0 +1,4 @@
+baseURL = "https://pianochord-gui.vercel.app"
+languageCode = "en-us"
+title = "Piano Chord Chart"
+theme = "hugo-theme-minos"
